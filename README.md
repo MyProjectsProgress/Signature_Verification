@@ -11,9 +11,10 @@ Welcome to SignatureVerifier, a robust desktop application designed for signatur
 - [Project Demo](#project-demo)
 
 ## Runing Project
-- 
--
--
+- ![application ui](![1](https://github.com/MyProjectsProgress/Signature_Verification/assets/93479326/3d352755-7314-4c8e-8ce6-3aaf2640a73e)
+
+-![Testing CNN model](![2](https://github.com/MyProjectsProgress/Signature_Verification/assets/93479326/b6ea0fc7-6bed-444a-9dfc-40444369d864)
+
 
 ## Description 
 Signature Verificaiton and Identification Studio uses the following algorithms: 
